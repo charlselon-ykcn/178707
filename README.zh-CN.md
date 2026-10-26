@@ -4,7 +4,7 @@
 
 纸面画框、破框转场与彩蛋动效。内测版，新文案适配仍在完善。
 
-**3:4 · 1440 × 1920 · 60 fps · v0.1.0-alpha8** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**3:4 · 1440 × 1920 · 60 fps · v0.1.1-alpha.1** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/break-boundaries)**
 https://motiongit.com/@adunext/break-boundaries

@@ -4,7 +4,7 @@
 
 Paper frames, frame-breaking transitions and playful hidden details. Beta: adaptation to new scripts is still being improved.
 
-**3:4 · 1440 × 1920 · 60 fps · v0.1.0-alpha8** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**3:4 · 1440 × 1920 · 60 fps · v0.1.1-alpha.1** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/break-boundaries)**
 https://motiongit.com/@adunext/break-boundaries
