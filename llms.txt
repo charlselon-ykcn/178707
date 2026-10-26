@@ -1,7 +1,7 @@
 # Beyond the Frame · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/break-boundaries
-Version: 0.1.1-alpha.1
+Version: 0.1.1-alpha.2
 Demo available; template download coming soon.
 
 Declared runtime profile: native-python-node/1.

@@ -3,7 +3,7 @@
 Paper frames, frame-breaking transitions and playful hidden details. Beta: adaptation to new scripts is still being improved.
 
 Template & full download: https://motiongit.com/@adunext/break-boundaries
-Version: 0.1.1-alpha.1
+Version: 0.1.1-alpha.2
 Demo available; template download coming soon.
 
 ## Technical reference

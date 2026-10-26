@@ -3,7 +3,7 @@
 纸面画框、破框转场与彩蛋动效。内测版，新文案适配仍在完善。
 
 模板与完整下载: https://motiongit.com/@adunext/break-boundaries
-版本: 0.1.1-alpha.1
+版本: 0.1.1-alpha.2
 Demo 已公开，模板下载即将开放。
 
 ## 技术资料
